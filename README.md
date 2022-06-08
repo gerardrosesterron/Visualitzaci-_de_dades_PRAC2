@@ -1,9 +1,14 @@
 Acces to the visualization:
 https://datastudio.google.com/reporting/be271c67-59f5-409a-acfd-e245497b8314
 
-
 Els arxius següents son inputs d'informació per poder preparar les dades:
-- 'Altitud'
+- 'AltitudSuperficiePoblacioMunicipis2019.csv'
+- 'AltitudSuperficiePoblacioMunicipis2020.csv'
+- 'DensitatPoblacio_2019.csv'
+- 'DensitatPoblacio_2020.csv'
+- 'Nombre_municipis_poblacio_2019.csv'
+- 'Nombre_municipis_poblacio_2020.csv'
+- 'Poblacio_Catalunya_per_municipi_edat_sexe_2019_2020.csv'
 
 L'arxius 'Preparacions.pynb' és el codi que he desenvolutat per fer les tranformacions i combinacions de dades.
 
