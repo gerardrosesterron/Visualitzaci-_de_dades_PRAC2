@@ -1,4 +1,4 @@
-[Enllaç](https://datastudio.google.com/reporting/be271c67-59f5-409a-acfd-e245497b8314) a la visualització a Google Data Studio:
+[Enllaç](https://datastudio.google.com/reporting/be271c67-59f5-409a-acfd-e245497b8314 target="_blank) a la visualització a Google Data Studio:
 
 Els arxius següents son *inputs* d'informació per poder preparar les dades:
 - 'AltitudSuperficiePoblacioMunicipis2019.csv'
