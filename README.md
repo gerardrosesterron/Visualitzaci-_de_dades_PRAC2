@@ -1,4 +1,4 @@
-Aquest [Enllaç](https://datastudio.google.com/reporting/be271c67-59f5-409a-acfd-e245497b8314) et dirigeix a la visualització carregada en Google Data Studio.
+Aquest [Enllaç](https://datastudio.google.com/s/kxTSitcHqRE)et dirigeix a la visualització carregada en Google Data Studio.
 
 Aquest [Enllaç](https://gerardrosesterron.github.io/Visualitzacio_de_dades_PRAC2/) et dirigeix a la pàgina de github per aquest repositori.
 
