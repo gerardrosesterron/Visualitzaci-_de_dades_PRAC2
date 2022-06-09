@@ -1,9 +1,7 @@
-Resultats de la PAC 2:
+Resultats de la PRAC 2:
 
 ***********************************************************************
  
-![dendogram](Dendogram.png)
-
-Font de dades: [https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification?select=test.csv](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification?select=test.csv)
+Visualització: [https://datastudio.google.com/s/vSX2Oa5Y-QM](https://datastudio.google.com/s/vSX2Oa5Y-QM)
 
 ***********************************************************************
